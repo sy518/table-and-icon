@@ -1,0 +1,24 @@
+table{
+    border: 5px, solid, black;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid,black;
+    padding: 10px;
+}
+th{
+    background-color: chartreuse;
+}
+.one{
+    background-color: #bd51bf
+}
+.two{
+    background-color: #478fd7
+}
+.icon{
+    
+    display: flex;
+}
+.icon2{
+    display: flex;
+}
